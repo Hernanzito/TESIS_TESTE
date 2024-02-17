@@ -1,0 +1,15 @@
+.parrafo{width: 31.5em;
+  text-align: justify;
+}
+.cajita {
+  width: 30em;
+  border: 0px solid #FCFF33;
+  box-shadow: 4px 8px 5px #444;
+  padding: 8px 12px;
+  background-color: #FCFF33;
+  color: #0A90E1;
+}
+#mapa{
+  width:80%; 
+  height:450px
+}
